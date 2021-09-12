@@ -1,0 +1,14 @@
+# Project exclude paths
+
+#intelliJ
+/out/
+/.idea/
+algorithm.iml
+Main.java
+
+#eclips
+/.settings/
+/bin
+.classpath
+.project
+.class
